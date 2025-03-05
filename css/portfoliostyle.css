@@ -1,0 +1,155 @@
+/* portfolio  */
+#portfolio{
+    min-height: 110vh;
+    width: 100%;
+    position: relative;
+    background-color: black;
+    padding-top: 1px;
+    z-index: 3;
+}
+
+#mainpage {
+    min-height: 160vh;
+    width: 100%;
+     z-index: 1;
+    position: relative;
+}
+
+#DYKpage {
+    min-height: 110vh;
+    width: 100%;
+     z-index: 1;
+    position: relative;
+    background-color: black;
+}
+
+.portfolioheader {
+    text-align: center;
+    font-size: 40px;
+    left: 35%;
+    text-transform: uppercase;
+    font-family: 'VCR OSD Mono', sans-serif;
+    font-weight: bold;
+    top: 0px;
+    color: white;
+}
+
+img[alt="ghost-pixel"]{
+    position: absolute;
+    top: 260px;
+    left: 100px;
+    box-sizing: border-box;
+}
+
+
+.name {
+    position: absolute;
+    font-family: 'VCR OSD Mono', sans-serif;
+    font-size: 150px;
+    color: white;
+    right: 8%;
+    top: 15%;
+}
+
+.bornin {
+    position: absolute;
+    font-family: 'VCR OSD Mono', sans-serif;
+    font-size: 50px;
+    top: 300px;
+    left: 150px;
+}
+
+.studied {
+    position: absolute;
+    font-family: 'VCR OSD Mono', sans-serif;
+    font-size: 40px;
+    top: 850px;
+    right: 80px;
+    text-align: right;
+}
+
+img[alt="groot"]{
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+img[alt="studying"]{
+    position: absolute;
+    top: 850px;
+    left: 40px;
+    height: 450px;
+    width: 750px;
+}
+
+/* biography  */
+#biographypage {
+    min-height: 115vh;
+    width: 100%;
+     z-index: 1;
+    position: relative;
+    background-color: black;
+    background-image: url(../assets/pixelbackground2.jpg);
+    background-repeat: no-repeat;
+}
+
+.biographyheader {
+    color: white;
+    text-align: center;
+    font-family: 'VCR OSD Mono', sans-serif;
+    font-size: 100px;
+    top: 10px;
+    padding: 30px;
+    margin: 0;
+    text-transform: uppercase;
+    
+}
+
+.biographyp {
+    position: absolute;
+    font-family: 'VCR OSD Mono', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px black;
+    border-style: double;
+    padding: 1px;
+    box-shadow: 10px 10px;
+    background-color: orange;
+    margin: 0%;
+}
+
+/* did you know page  */
+
+img[alt="samuraigif"] {
+    position: absolute;
+    top: 300px;
+    left: 8%;
+    width: 650px;
+    height: 500px;
+}
+
+.DYKheader {
+    color: white;
+    text-align: center;
+    font-family: 'VCR OSD Mono', sans-serif;
+    font-size: 100px;
+    top: 10px;
+    padding: 30px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+p.DYKp {
+    position: absolute;
+    font-family: 'VCR OSD Mono', sans-serif;
+    text-transform: uppercase;
+    font-size: 50px;
+    right: 300px;
+    top: 300px;
+    text-align: justify;
+}
+
+/* end of portfolio  */

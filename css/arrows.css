@@ -1,0 +1,221 @@
+/* arrow 1 */
+.arrow-1 {
+    height:70px;
+    width:40px;
+    position: absolute;
+    top: 750px;
+    left: 48%;
+    padding-top: 60px;
+    display: grid;
+    text-align: center;
+    background: 
+      linear-gradient(currentColor 0 0) bottom/10px calc(100% - 15px),
+      conic-gradient(from 134deg at top,#0000 ,currentColor 1deg 90deg,#0000 91deg) top/100% 15px;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+    animation: a10-0 2s infinite;
+    -ms-transform: rotate(20deg); /* IE 9 */
+  transform: rotate(180deg);
+  }
+  .arrow-1:before,
+  .arrow-1:after {
+    content: "";
+    grid-area: 1/1;
+    background:inherit;
+    background-size: 10px calc(100% - 25px),100% 25px;
+    animation: a10-1 2s infinite;
+  }
+  .arrow-1:after {
+    background-size: 10px calc(100% - 30px),100% 30px;
+    animation: a10-2 2s infinite;
+  }
+  @keyframes a10-0 {
+    25%,100% {padding-top:0px}
+  }
+  
+  @keyframes a10-1 {
+    0%,25%   {margin:60px -10px 0}
+    50%,100% {margin:8px  -10px 0}
+  }
+  @keyframes a10-2 {
+    0%,50%   {margin:60px -15px 0}
+    75%,100% {margin:20px -15px 0}
+  }
+
+  /* arrow 2  */
+.arrow-2 {
+    height:70px;
+    width:40px;
+    position: absolute;
+    top: 78%;
+    left: 50%;
+    padding-top: 60px;
+    display: grid;
+    text-align: center;
+    background: 
+      linear-gradient(currentColor 0 0) bottom/10px calc(100% - 15px),
+      conic-gradient(from 134deg at top,#0000 ,currentColor 1deg 90deg,#0000 91deg) top/100% 15px;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+    animation: a10-0 2s infinite;
+    -ms-transform: rotate(20deg); /* IE 9 */
+  transform: rotate(180deg);
+  }
+  .arrow-2:before,
+  .arrow-2:after {
+    content: "";
+    grid-area: 1/1;
+    background:inherit;
+    background-size: 10px calc(100% - 25px),100% 25px;
+    animation: a10-1 2s infinite;
+  }
+  .arrow-2:after {
+    background-size: 10px calc(100% - 30px),100% 30px;
+    animation: a10-2 2s infinite;
+  }
+  @keyframes a10-0 {
+    25%,100% {padding-top:0px}
+  }
+  
+  @keyframes a10-1 {
+    0%,25%   {margin:60px -10px 0}
+    50%,100% {margin:8px  -10px 0}
+  }
+  @keyframes a10-2 {
+    0%,50%   {margin:60px -15px 0}
+    75%,100% {margin:20px -15px 0}
+  }
+
+  .arrow-5 {
+    height:70px;
+    width:40px;
+    position: absolute;
+    top: 1600px;
+    left: 48%;
+    padding-top: 60px;
+    display: grid;
+    text-align: center;
+    background: 
+      linear-gradient(currentColor 0 0) bottom/10px calc(100% - 15px),
+      conic-gradient(from 134deg at top,#0000 ,currentColor 1deg 90deg,#0000 91deg) top/100% 15px;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+    animation: a10-0 2s infinite;
+    -ms-transform: rotate(20deg); /* IE 9 */
+  transform: rotate(180deg);
+  }
+  .arrow-5:before,
+  .arrow-5:after {
+    content: "";
+    grid-area: 1/1;
+    background:inherit;
+    background-size: 10px calc(100% - 25px),100% 25px;
+    animation: a10-1 2s infinite;
+  }
+  .arrow-5:after {
+    background-size: 10px calc(100% - 30px),100% 30px;
+    animation: a10-2 2s infinite;
+  }
+  @keyframes a10-0 {
+    25%,100% {padding-top:0px}
+  }
+  
+  @keyframes a10-1 {
+    0%,25%   {margin:60px -10px 0}
+    50%,100% {margin:8px  -10px 0}
+  }
+  @keyframes a10-2 {
+    0%,50%   {margin:60px -15px 0}
+    75%,100% {margin:20px -15px 0}
+  }
+
+
+  /* arrow 3 portfolio  */
+  .arrow-3 {
+    height:70px;
+    width:40px;
+    position: absolute;
+    top: 550px;
+    left: 46%;
+    padding-top: 60px;
+    display: grid;
+    text-align: center;
+    background: 
+      linear-gradient(currentColor 0 0) bottom/10px calc(100% - 15px),
+      conic-gradient(from 134deg at top,#0000 ,currentColor 1deg 90deg,#0000 91deg) top/100% 15px;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+    animation: a10-0 2s infinite;
+    -ms-transform: rotate(20deg); /* IE 9 */
+  transform: rotate(180deg);
+  }
+  .arrow-3:before,
+  .arrow-3:after {
+    content: "";
+    grid-area: 1/1;
+    background:inherit;
+    background-size: 10px calc(100% - 25px),100% 25px;
+    animation: a10-1 2s infinite;
+  }
+  .arrow-3:after {
+    background-size: 10px calc(100% - 30px),100% 30px;
+    animation: a10-2 2s infinite;
+  }
+  @keyframes a10-0 {
+    25%,100% {padding-top:0px}
+  }
+  
+  @keyframes a10-1 {
+    0%,25%   {margin:60px -10px 0}
+    50%,100% {margin:8px  -10px 0}
+  }
+  @keyframes a10-2 {
+    0%,50%   {margin:60px -15px 0}
+    75%,100% {margin:20px -15px 0}
+  }
+
+
+  /* arrow 4  */
+ .arrow-4 {
+    height:70px;
+    width:40px;
+    position: absolute;
+    top: 1400px;
+    left: 46%;
+    padding-top: 60px;
+    display: grid;
+    text-align: center;
+    background: 
+      linear-gradient(currentColor 0 0) bottom/10px calc(100% - 15px),
+      conic-gradient(from 134deg at top,#0000 ,currentColor 1deg 90deg,#0000 91deg) top/100% 15px;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+    animation: a10-0 2s infinite;
+    -ms-transform: rotate(20deg); /* IE 9 */
+  transform: rotate(180deg);
+  }
+  .arrow-4:before,
+  .arrow-4:after {
+    content: "";
+    grid-area: 1/1;
+    background:inherit;
+    background-size: 10px calc(100% - 25px),100% 25px;
+    animation: a10-1 2s infinite;
+  }
+  .arrow-4:after {
+    background-size: 10px calc(100% - 30px),100% 30px;
+    animation: a10-2 2s infinite;
+  }
+  @keyframes a10-0 {
+    25%,100% {padding-top:0px}
+  }
+  
+  @keyframes a10-1 {
+    0%,25%   {margin:60px -10px 0}
+    50%,100% {margin:8px  -10px 0}
+  }
+  @keyframes a10-2 {
+    0%,50%   {margin:60px -15px 0}
+    75%,100% {margin:20px -15px 0}
+  }
+ 

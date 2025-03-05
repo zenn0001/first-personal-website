@@ -1,0 +1,165 @@
+/* home button variables and hover effects  */
+.homebutton {
+    border-radius: 4px;
+    background-color: grey;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    position: fixed;
+    bottom: 3%;
+    right: 2%;
+    z-index: 1;
+  }
+  
+  .homebutton span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .homebutton span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .homebutton:hover span {
+    padding-right: 25px;
+  }
+  
+  .homebutton:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+  .homebutton:hover {background-color: grey}
+
+.homebutton:active {
+  background-color: #8e3e3e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+/* button intro effect  */
+
+.homebutton {
+    opacity: 0;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}   
+  
+.homebutton {
+    animation-name: cd-bounce-right;
+}
+  
+.homebutton  {
+    animation-duration: 0.6s;
+}
+  
+@keyframes cd-bounce-right {
+    0% {
+      opacity: .2;
+      transform: translateX(-200px);
+    }
+    60% {
+      opacity: .7;
+      transform: translateX(15px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+}
+/* effect end  */
+
+/* know more button  */
+.knowmorebtn {
+  border-radius: 4px;
+  background-color: black;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  position: absolute;
+  bottom: 36.5%;
+  right: 2.9%;
+  z-index: 1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.knowmorebtn span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.knowmorebtn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.knowmorebtn:hover span {
+  padding-right: 25px;
+}
+
+.knowmorebtn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.knowmorebtn:hover {background-color: #3e8e41}
+
+.knowmorebtn:active {
+background-color: #8e3e3e;
+box-shadow: 0 5px #666;
+transform: translateY(4px);
+}
+
+.knowmorebtn {
+  opacity: 0;
+  animation-fill-mode: forwards;
+}   
+
+.knowmorebtn {
+  animation-name: cd-bounce-right;
+}
+
+.knowmorebtn  {
+  animation-duration: 0.6s;
+}
+
+@keyframes cd-bounce-right {
+  0% {
+    opacity: .2;
+    transform: translateX(-200px);
+  }
+  60% {
+    opacity: .7;
+    transform: translateX(15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

@@ -1,0 +1,53 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  align-items: right;
+}
+
+nav {
+  flex: 1;
+  text-align: right;
+  background-color: black;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+nav ul li a:hover {
+  color: grey;
+  
+}
+
+@media only screen and (max-width:700px){
+  nav {
+    position: fixed;
+    z-index: 1000;
+  }
+
+    nav ul {
+      width: 100%; 
+      background:black;
+      position: absolute;
+      right: 0;
+      z-index: 10;
+      display: inline-block;
+      position: sticky;
+    }
+    nav ul li {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    nav ul li a {
+      color: white;
+    }
+    }
