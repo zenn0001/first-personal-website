@@ -30,9 +30,9 @@ Provides links to Facebook, Twitter, Instagram, and email for easy communication
 This page provides a deeper insight into Justine’s background, education, and interests. <br> 
 
 🎓 Personal & Educational Background <br> 
-Born on February 14, 2004, and currently residing in Dasmariñas, Cavite. <br>  
-Attended Dr. Jose P. Rizal Elementary School and Dasmariñas Integrated High School. <br>  
-Currently studying the ICT strand under the TVL track at Emilio Aguinaldo College Cavite. <br> 
+Born on February 14, 2004, and currently residing in Dasmariñas, Cavite. 
+Attended Dr. Jose P. Rizal Elementary School and Dasmariñas Integrated High School. 
+Currently studying the ICT strand under the TVL track at Emilio Aguinaldo College Cavite. 
 
 📜 Biography <br> 
 A more detailed personal journey, covering: <br> 
