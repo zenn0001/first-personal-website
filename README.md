@@ -6,34 +6,31 @@ This project is a personal portfolio website designed to introduce Justine Lawre
 -
 The homepage serves as the main landing page and includes: <br> 
 
-🖥️ Introduction & Navigation <br> 
--
+🖥️ <h3> Introduction & Navigation </h3> <br> 
 A warm welcome message in multiple languages, including Korean. <br> 
 A navigation menu allowing easy access to different sections of the site. <br> 
 
-📖 About Me <br>  
--
+📖<h3> About Me </h3> <br>  
 A brief introduction about Justine, highlighting his background as a Grade 12 ICT student at Emilio Aguinaldo College Cavite. <br> 
 His interests, including reading, exploring different cultures, and gaming. <br> 
 
-🛠️ Services & Skills <br> 
--
+🛠️ <h3> Services & Skills </h3> <br> 
 This section highlights Justine’s skill set, divided into three main categories: <br> 
 Video Editing & Graphic Design – Experience in editing videos and designing graphics. A sample project is linked. <br> 
 Programming & Development – Proficiency in Java, JavaScript, Python, HTML, and CSS with a focus on continuous learning. <br> 
 Game Development – Experience in creating a 2D platformer game, though the final exported file is unavailable. <br>  
 
-📂 Works & Projects <br> 
--
+📂 <h3> Works & Projects </h3> <br> 
 Features Justine’s first-ever game project, "Berserk", developed in Grade 11 as part of a school project. <br> 
 The game was inspired by the Berserk manga and was created with a team of three members. <br> 
 While the final game file is lost, all assets and source files are still available. <br> 
 
-📩 Contact Information <br> \
--
+📩 <h3> Contact Information </h3> <br> 
 Provides links to Facebook, Twitter, Instagram, and email for easy communication. <br> 
 
-📌 portfolio.html (Portfolio Page) <br> 
+-----------------------------------------------------------------------------------------------------------------
+
+📌<h3> portfolio.html (Portfolio Page) </h3> <br> 
 -
 This page provides a deeper insight into Justine’s background, education, and interests. <br> 
 
