@@ -1,6 +1,6 @@
-<h1> 🌐 Personal Portfolio Website
+<h1> 🌐 Personal Portfolio Website </h1>
 This project is a personal portfolio website designed to introduce Justine Lawrence Coronel, showcasing his skills, background, interests, and projects. It consists of two main pages:
-</h1>
+-
 
 📌 index.html (Homepage) <br> 
 -
