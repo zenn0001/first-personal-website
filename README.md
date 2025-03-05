@@ -1,5 +1,5 @@
 # 🌐 Personal Portfolio Website  
-This project is a personal portfolio website designed to introduce **Justine Lawrence Coronel**, showcasing his **skills, background, interests, and projects**. It consists of two main pages:  
+This project is a personal portfolio website designed to introduce **myself**, showcasing my **skills, background, interests, and projects**. this consists of two main pages:  
 
 ---
 
