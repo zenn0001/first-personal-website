@@ -25,12 +25,12 @@ Provides links to Facebook, Twitter, Instagram, and email for easy communication
 📌 portfolio.html (Portfolio Page)
 This page provides a deeper insight into Justine’s background, education, and interests.
 
-🎓 Personal & Educational Background
-Born on February 14, 2004, and currently residing in Dasmariñas, Cavite.
-Attended Dr. Jose P. Rizal Elementary School and Dasmariñas Integrated High School.
-Currently studying the ICT strand under the TVL track at Emilio Aguinaldo College Cavite.
-📜 Biography
-A more detailed personal journey, covering:
+🎓 Personal & Educational Background <br> 
+Born on February 14, 2004, and currently residing in Dasmariñas, Cavite. <br>  
+Attended Dr. Jose P. Rizal Elementary School and Dasmariñas Integrated High School. <br>  
+Currently studying the ICT strand under the TVL track at Emilio Aguinaldo College Cavite. <br> 
+📜 Biography <br> 
+A more detailed personal journey, covering: <br> 
 
 Gaming passion – Started gaming as a child with a Nintendo Color, later moving to PlayStation.
 Online gaming & friendships – Built friendships in local computer shops and gaming communities.
@@ -38,12 +38,13 @@ Adapting during the pandemic – Transitioned to reading, anime, and exploring J
 Career aspirations – Interested in electronics and computer science, inspired by his father’s work with electronic components.
 💡 Fun Facts (Did You Know?)
 A fun, interactive section listing Justine’s personal interests:
-✔ Loves Samurais
-✔ Enjoys eating avocados
-✔ Interested in Japanese culture
-✔ Passionate about manga/manhwa
-✔ Prefers being alone sometimes
-✔ Avid computer gamer
+<br> 
+✔ Loves Samurais <br> 
+✔ Enjoys eating avocados <br> 
+✔ Interested in Japanese culture <br> 
+✔ Passionate about manga/manhwa <br> 
+✔ Prefers being alone sometimes <br> 
+✔ Avid computer gamer <br> 
 
 🔙 Back to Homepage
 A "Home" button is provided for easy navigation back to the main page.
