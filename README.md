@@ -64,6 +64,7 @@ This portfolio website is built using:
 ✅ **HTML, CSS, and JavaScript** for a **clean and responsive design**.  
 ✅ **Google Fonts & Custom Fonts** for an **aesthetically pleasing typography**.  
 ✅ **CSS Animations & Effects** for a **modern, interactive feel**.  
+---
 
-### **⚠️ Limitations & Future Plans**  
-📌 This **website is not yet fully responsive**, as I was still experimenting with my **design skills
+The down side is this isnt a responsive website, unfortunely i dont know how to make responsive website at the time im making this im just experimenting and working with my designing skills.
+-
